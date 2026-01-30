@@ -1,7 +1,8 @@
-Name: Obisesan Anjolaoluwa
-Matric Number: 22CH032040
+Name: muoh Stephanie
+Matric Number: 22CH032031
 Machine Learning Algorithm: Linear Regression
 Model Persistence Method: Joblib
 Live URL: https://houseprice-project-mmuoh-stephanie.onrender.com
 GitHub Repository:https://github.com/stephanie-creat/HousePrice_Project_Mmuoh_Stephanie_22CH032031.git
+
 
